@@ -1,7 +1,8 @@
 # FeelTrack
 
 ## Descrizione del Progetto
-FeelTrack è un progetto che mira a [descrizione dell'obiettivo principale del progetto]. Utilizza [tecnologie principali, ad esempio Python, TensorFlow, ecc.] per [scopo del progetto, es. analisi del sentiment, riconoscimento delle emozioni, ecc.].
+FeelTrack è un progetto che mira a analizzare il sentiment dei testi utilizzando tecniche di Natural Language Processing (NLP). Il notebook FellTrack.ipynb contiene il codice per il preprocessing dei dati, l'addestramento del modello e l'analisi dei risultati.
+
 
 ## Contenuto del Repository
 Questo repository contiene:
