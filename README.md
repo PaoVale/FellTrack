@@ -41,10 +41,4 @@ Se vuoi contribuire al progetto:
 2. Crea un nuovo branch con le tue modifiche.
 3. Invia una pull request.
 
-## Licenza
-[Specifica la licenza del progetto, es. MIT, GPL, ecc.]
-
----
-
-Se hai domande o suggerimenti, sentiti libero di aprire un'issue!
 
