@@ -1,7 +1,7 @@
 # FeelTrack
 
 ## Descrizione del Progetto
-FeelTrack è un progetto che mira a analizzare il sentiment dei testi utilizzando tecniche di Natural Language Processing (NLP). Il notebook FellTrack.ipynb contiene il codice per il preprocessing dei dati, l'addestramento del modello e l'analisi dei risultati.
+FeelTrack è un progetto che mira a analizzare il sentiment dei post sui social(in formato testo) utilizzando tecniche di Natural Language Processing (NLP). Il notebook FellTrack.ipynb contiene il codice per il preprocessing dei dati, l'addestramento del modello e l'analisi dei risultati.
 
 
 ## Contenuto del Repository
