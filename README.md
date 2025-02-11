@@ -7,9 +7,8 @@ FeelTrack è un progetto che mira a analizzare il sentiment dei post sui social(
 ## Contenuto del Repository
 Questo repository contiene:
 - `FeelTrack.ipynb`: Notebook Jupyter con il codice principale del progetto.
-- `data/`: Cartella contenente i dataset utilizzati.
-- `models/`: Modelli pre-addestrati o salvati.
-- `requirements.txt`: Elenco delle dipendenze necessarie per eseguire il progetto.
+- `Dataset/`: Cartella contenente i dataset utilizzati.
+- `Documentazione/`:Cartella contente documentazione,proposta di progetto e presentazione.
 - `README.md`: Questo file con le istruzioni dettagliate.
 
 ## Installazione e Utilizzo
